@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cstdlib> 
- 
+
 int main(){
 	
 	int my_choice;
